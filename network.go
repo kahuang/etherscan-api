@@ -22,6 +22,8 @@ var (
 	Goerli Network = Network{"api-goerli", "etherscan.io"}
 	// Tobalaba Testnet
 	Tobalaba Network = Network{"api-tobalaba", "etherscan.io"}
+	// Sepolia
+	Sepolia Network = Network{"api-sepolia", "etherscan.io"}
 	// Arbitrum Sepolia Testnet
 	ArbitrumSepolia Network = Network{"api-sepolia", "arbiscan.io"}
 )
