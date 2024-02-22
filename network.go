@@ -26,6 +26,9 @@ var (
 	Sepolia Network = Network{"api-sepolia", "etherscan.io"}
 	// Arbitrum Sepolia Testnet
 	ArbitrumSepolia Network = Network{"api-sepolia", "arbiscan.io"}
+
+	BaseSepolia Network = Network{"api-sepolia", "basescan.org"}
+	Base        Network = Network{"api", "basescan.org"}
 )
 
 // Network is ethereum network type (mainnet, ropsten, etc)
